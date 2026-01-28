@@ -1,16 +1,23 @@
-## Hi there 👋
+## 👋 Hi, I’m Akshay Raikar
 
-<!--
-**akshayraikar001/akshayraikar001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 MCA | Coding & Problem-Solving  
+🚀 Learning daily: DSA • Web • AI  
+🛠 Tech: Python • JavaScript • PHP • React • SQL • Dart
 
-Here are some ideas to get you started:
+## 🔧 What I Do
+- Build small, practical projects  
+- Practice algorithms & logic  
+- Focus on clean, readable code  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Current Focus
+- Builing AI projects
+- Data Structures & Algorithms  
+- Backend & system basics  
+- Real-world development  
+
+## ⚡ Status
+- Active  
+- Auto-updated via GitHub Actions
+
+## Leetcode
+https://leetcode.com/u/ouCgREp5X1/
